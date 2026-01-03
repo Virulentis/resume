@@ -19,7 +19,7 @@ cv:
         position: Software Engineer Intern
         location: Remote
         start_date: 2025-04
-        end_date: present
+        end_date: 2025-12
         spacing_after: different_company
         highlights:
           - Analyzed existing manual processes and identified key bottlenecks, resulting in targeted automation solutions that improved overall workflow efficiency
@@ -173,14 +173,15 @@ cv:
         tags: [archived]
         
     achievements:
-      - name: Hackathons
-        highlights: 
-          - Participated in multiple Hackathons, including StormHacks western canadas biggest hackathon
-          - Utilized multiple technologies such as REST apis, databases like redis and postgres
+      - name: Junior Engineering Competition - 2nd Place
+        date: 2024
+        location: Simon Fraser University
+        summary: Placed second and qualified for Western Canada Engineering Competition
+        tags: [mechatronics]
       
-      - name: Engineering Competitions
-        highlights:
-          - Participated in a junior engineering design competition placing second and qualifiying for the Western Engineering Competition
+      - name: Hackathon Participation
+        date: 2025
+        summary: Participated in 3 hackathons including Western Canada's largest hackathon, Stormhacks, developing projects focused on web scraping, databases and API calls
 
 
     certifications_skills:
