@@ -10,10 +10,13 @@ dependencies = [
     "pytest>=9.0.2",
     "python-dotenv>=1.0.0",
     "pyyaml>=6.0",
-    "rendercv[full]>=1.0.0",
+    "rendercv[full]>=2.6",
     "ruff>=0.14.8",
     "types-pyyaml>=6.0.12.20250915",
 ]
+
+[tool.setuptools.packages.find]
+include = ["resume_builder*"]
 
 [tool]
 
